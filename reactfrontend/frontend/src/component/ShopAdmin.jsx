@@ -1,10 +1,27 @@
 import React, {Component} from "react"
+import AdminPageService from "../service/AdminPageService";
 
 class ShopAdmin extends Component{
-render(){
-    return(
+    constructor(props) {
+        super(props);
+
+        this.state={
+                admin: ""
+        }
+    }
+    componentDidMount() {
+        AdminPageService.getIndexPage().then((res) => {
+           this.setState({admin: res.data});
+           console.log({this.state.admin});
+        });
+    }
+
+    render(){
+
+        return(
         <div>
-            <h1>here is Admin console</h1>
+            <h1>{this.state.admin}</h1>
+            <h1>Hi</h1>
         </div>
     );
  }

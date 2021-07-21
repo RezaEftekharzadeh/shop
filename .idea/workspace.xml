@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bed8ed3b-426d-40c5-affc-48966ed37d29" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/component/ShopAdmin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/component/TestComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/service/AdminPageService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/src/component/ShopAdmin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/component/ShopAdmin.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +114,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -119,20 +124,22 @@
       <recent name="E:\now I'm doing\project\ShopmeProject\shopmewebparent\shopmebackend\src\main\resources\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="Spring Boot.ShopmebackendApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,8 +185,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="Spring Boot.ShopmebackendApplication" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +204,8 @@
       <workItem from="1626509630916" duration="1633000" />
       <workItem from="1626513028698" duration="8127000" />
       <workItem from="1626555794708" duration="294000" />
-      <workItem from="1626556235611" duration="2494000" />
+      <workItem from="1626556235611" duration="3053000" />
+      <workItem from="1626595890926" duration="3775000" />
     </task>
     <servers />
   </component>
@@ -261,10 +269,14 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/MainController.java</url>
-          <line>13</line>
+          <line>14</line>
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">

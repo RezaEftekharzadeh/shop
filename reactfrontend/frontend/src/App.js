@@ -1,6 +1,7 @@
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import './App.css';
 import ShopAdmin from "./component/ShopAdmin";
+import TestComponent from "./component/TestComponent"
 
 function App() {
   return (
@@ -8,7 +9,8 @@ function App() {
       <Router>
         <div className="container">
           <Switch>
-            <Route path= "/ShopmeAdmin" exact component ={ShopAdmin}></Route>
+              <Route path= "/ShopmeAdmin" exact component ={ShopAdmin}></Route>
+              <Route path= "/test" exact component ={TestComponent}></Route>
 
           </Switch>
         </div>
