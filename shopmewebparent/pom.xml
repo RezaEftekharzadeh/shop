@@ -21,6 +21,7 @@
 
     <modules>
         <module>shopmebackend</module>
+        <module>ShopmeFrontEnd</module>
     </modules>
 
     <dependencies>

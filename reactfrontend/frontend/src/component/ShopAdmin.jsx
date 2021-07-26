@@ -10,11 +10,11 @@ class ShopAdmin extends Component{
         }
     }
     componentDidMount() {
-        AdminPageService.getIndexPage().then((res) => {
-           this.setState({admin: res.data});
-           console.log({this.state.admin});
-        });
-    }
+
+        AdminPageService.getIndexPage().then(res => console.log(res));
+
+        }
+
 
     render(){
 

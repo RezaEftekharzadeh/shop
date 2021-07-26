@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="shopmebackend" />
         <module name="shopmecommon" />
+        <module name="ShopmeFrontEnd" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ShopmeFrontEnd" options="-parameters" />
       <module name="shopmebackend" options="-parameters" />
       <module name="shopmecommon" options="-parameters" />
     </option>

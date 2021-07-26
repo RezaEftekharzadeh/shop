@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bed8ed3b-426d-40c5-affc-48966ed37d29" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/component/TestComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/service/AdminPageService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopmewebparent/ShopmeFrontEnd/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/mainController/MainController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/src/component/ShopAdmin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/component/ShopAdmin.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/src/service/AdminPageService.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/service/AdminPageService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/restController/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/restController/MainControllerRest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +51,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
-    <option name="disabledProfiles">
+    <option name="enabledProfiles">
       <list>
         <option value="jenkins" />
+      </list>
+    </option>
+    <option name="disabledProfiles">
+      <list>
         <option value="apotek1" />
       </list>
     </option>
@@ -105,8 +108,10 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shopmewebparent/ShopmeFrontEnd/src/main/resources/templates" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -118,6 +123,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\shop\shopmewebparent\ShopmeFrontEnd\src\main\resources\templates" />
       <recent name="E:\now I'm doing\project\ShopmeProject\shopmewebparent\shopmebackend\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -147,6 +153,13 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopmeFrontEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ShopmeFrontEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopme.ShopmeFrontEndApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,6 +219,9 @@
       <workItem from="1626555794708" duration="294000" />
       <workItem from="1626556235611" duration="3053000" />
       <workItem from="1626595890926" duration="3775000" />
+      <workItem from="1626887251087" duration="4476000" />
+      <workItem from="1627278915519" duration="8463000" />
+      <workItem from="1627297298292" duration="125000" />
     </task>
     <servers />
   </component>
@@ -263,16 +279,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/MainController.java</url>
-          <line>14</line>
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
