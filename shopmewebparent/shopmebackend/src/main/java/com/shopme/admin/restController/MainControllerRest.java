@@ -7,14 +7,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api/rest/ShopmeAdmind")
+@RequestMapping("/api/rest/ShopmeAdmin")
 @CrossOrigin(origins = "http://localhost:3000/")
 public class MainControllerRest {
 
     @GetMapping("/get")
     public String viewHomePage() {
         System.out.println("hellooooooooooooooooooooo");
-        return "Here is Admin backend page REST APIapi/rest/ShopmeAdmind";
+        return "Here is Admin backend page REST API api/rest/ShopmeAdmind";
 
     }
 }
