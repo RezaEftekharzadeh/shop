@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bed8ed3b-426d-40c5-affc-48966ed37d29" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/shopmecommon/src/main/java/com/shopme/common/entity/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopmecommon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopmecommon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopmewebparent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/restController/MainControllerRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/java/com/shopme/admin/restController/MainControllerRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/src/component/ShopAdmin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/component/ShopAdmin.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactfrontend/frontend/src/service/AdminPageService.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactfrontend/frontend/src/service/AdminPageService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shopmewebparent/shopmebackend/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +26,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="adf0bc2a-c432-44b6-b096-1f6001788305" />
+        <option name="url" value="https://github.com/RezaEftekharzadeh/shop.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,6 +62,14 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Dev\shop\.m2" />
+        <option name="userSettingsFile" value="C:\Dev\shop\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -97,6 +112,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -114,7 +130,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -125,7 +141,7 @@
       <recent name="E:\now I'm doing\project\ShopmeProject\shopmewebparent\shopmebackend\src\main\resources\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShopmebackendApplication">
+  <component name="RunManager" selected="Spring Boot.ShopmebackendApplication">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -207,6 +223,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ShopmebackendApplication" />
         <item itemvalue="Application.ShopmebackendApplication" />
       </list>
     </recent_temporary>
@@ -230,6 +247,7 @@
       <workItem from="1626887251087" duration="4476000" />
       <workItem from="1627278915519" duration="8463000" />
       <workItem from="1627297298292" duration="125000" />
+      <workItem from="1651354820798" duration="2969000" />
     </task>
     <servers />
   </component>
